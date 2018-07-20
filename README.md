@@ -1,4 +1,4 @@
 # Javascript 10 Lesson
 
-## Javascript 4 project
-[Javascript 4 project](./javascript_project.js)
+## Javascript project 4
+[Javascript project 4](./javascript_project.js)
